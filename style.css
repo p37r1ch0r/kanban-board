@@ -1,1 +1,9 @@
-
+.html {
+    height: 100%;
+}
+.body {
+    height: 100%;
+}
+.container-fluid {
+    background-color: #0D1321; 
+}
