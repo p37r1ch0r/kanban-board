@@ -1,9 +1,10 @@
-.html {
+html, body {
     height: 100%;
 }
-.body {
-    height: 100%;
-}
-.container-fluid {
+.column-container {
     background-color: #0D1321; 
+    padding-top: 80px;
+}
+.container {
+    width: 100%;
 }
