@@ -31,4 +31,7 @@ html, body {
     display: flex;
     justify-content: center;
 }
-
+img {
+    max-height: 100px;
+    max-width: 100px
+}
